@@ -1,4 +1,4 @@
-# neuralcodes
+# Image retrieval with neural codes
 
 Implementation of: 
 Mikolov, Tomas, et al. "Efficient Estimation of Word Representations in Vector Space" Advances in neural information processing systems. 2013.
